@@ -1,0 +1,27 @@
+[{
+	"name": "category X",
+	"products": [{
+		"id": "X440",
+		"name": "Item X440",
+		"type": "MU",
+		"categories": ["m", "n", "o"],
+		"mainImageUrl": "string",
+		"croppedRightImageUrl": "string",
+		"lifestyleImageUrl": "string",
+		"notAvailableImageUrl": "string",
+		"productShopUrl": "string",
+		"buyUrl": "string",
+		"manualUrl": "string",
+		"helpUrl": "string",
+		"marketingWeight": 0,
+		"description": "string",
+		"frontalImageUrl": "string",
+		"tileImageUrl": "string",
+		"externalProductIds": [{
+			"system": "HVP",
+			"id": "string"
+		}],
+		"videoUrl": "string",
+		"availableOnlyFromAdvisor": true
+	}]
+}]
